@@ -1,5 +1,5 @@
 # ViperPyweek
-## (I am one of the contributors, I only forked so that it appears on my profile, you can see the organization here:)
+## (I am one of the contributors, I only forked so that it appears on my profile, you can see the organization (here)[https://github.com/ViperPyWeek])
 <hr>
 This is a repository where the Vipers team collaborates for our pyweek project
 <br>
